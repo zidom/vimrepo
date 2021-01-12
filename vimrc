@@ -15,3 +15,5 @@ set softtabstop=4
 set shiftwidth=4
 set expandtab
 set autoindent
+set guifont=Cascadia_Code_PL:h11
+
